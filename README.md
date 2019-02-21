@@ -1,0 +1,1 @@
+This repository is used for prototyping quick ideas and getting hands on with latest AWS offerings.
